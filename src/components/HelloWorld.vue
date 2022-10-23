@@ -6,6 +6,7 @@
   <h1>contenedor izquierdo</h1>
   <h1>Raul</h1>
   <h1>Primera modificacion Raul</h1>
+  <h1>2da modificacion Raul</h1>
 </template>
 
 <style scoped>
