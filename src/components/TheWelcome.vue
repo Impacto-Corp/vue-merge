@@ -4,6 +4,6 @@
 
 <template>
   <h1>contenerdor derecho</h1>
-  <h1>Lynn</h1>
+  <h1>Lynn </h1>
 
 </template>
