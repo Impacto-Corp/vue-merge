@@ -4,6 +4,7 @@
 
 <template>
   <h1>contenedor izquierdo</h1>
+  <h1>Raul</h1>
 </template>
 
 <style scoped>
