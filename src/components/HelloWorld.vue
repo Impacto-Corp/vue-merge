@@ -10,6 +10,7 @@
   <h1>3era modificacion Raul</h1>
   <h1>4ta modificacion Raul</h1>
   <h1>5ta modificacion Raul</h1>
+  <h1>6ta modificacion Raul</h1>
 </template>
 
 <style scoped>

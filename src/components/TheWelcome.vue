@@ -11,4 +11,5 @@
   <h1>Tercera modificacion test</h1>
   <h1>Cuarta modificacion</h1>
   <h1>Quinta modificacion test</h1>
+  <h1>Modificando la rama 6ta de Lynn</h1>
 </template>
